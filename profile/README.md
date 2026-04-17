@@ -31,7 +31,7 @@ With **iZotope Ozone**, you gain clarity, depth, and competitive loudness withou
 
 ## Overview
 
-![izotope-ozone-dashboard](https://www.izotope.com/storage-cms/images/8/0/5/4/2574508-1-eng-GB/adb018bb5237-Ozone-12-Features-2r-Vintage-Compressor.png)
+![izotope-ozone-dashboard](https://muzikercdn.com/uploads/products/23445/2344550/thumb_large_d_gallery_0c2f40d2.jpg)
 
 *Example: Main interface of **iZotope Ozone** showing equalizer, compressor, imager, and maximizer modules.*
 
